@@ -1,1 +1,2 @@
 # osintnote
+**note to self...**
